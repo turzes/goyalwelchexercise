@@ -1,0 +1,41 @@
+as.formula(paste("y ~ ", regressors[i], sep = ""))
+
+SVM Kernels:
+http://www.inside-r.org/node/57517
+
+OLS:
+http://people.bu.edu/dinopc/papers/OLSinR.pdf
+http://www.cyclismo.org/tutorial/R/linearLeastSquares.html
+http://www.statmethods.net/stats/regression.html
+http://stats.stackexchange.com/questions/92498/forecasting-time-series-regression-in-r-using-lm
+
+Time Series:
+http://stackoverflow.com/questions/19835587/r-transform-data-frame-to-time-series
+http://faculty.washington.edu/ezivot/econ424/Working%20with%20Time%20Series%20Data%20in%20R.pdf
+
+Forecast:
+http://robjhyndman.com/hyndsight/rolling-forecasts/
+http://stats.stackexchange.com/questions/105690/rolling-window-forecasts-in-r
+
+Quantmod:
+http://www.quantmod.com/examples/data/
+
+Adaptive Elastic Net:
+https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
+
+General:
+http://www2.kenyon.edu/Depts/Math/hartlaub/Math305%20Fall2011/R.htm
+
+Evaluation:
+https://cran.r-project.org/web/packages/Metrics/Metrics.pdf
+
+Data:
+Explanation: http://christophj.github.io/replicating/r/replicating-goyal-welch-2008/
+goyal and welch data: http://www.hec.unil.ch/agoyal/
+(goyal-welch-a.csv) http://www.ivo-welch.info/professional/goyal-welch/
+
+GOYAL AND WELCH DATA EXPLANATION!!!
+http://www.hec.unil.ch/agoyal/docs/AllTables2013.pdf
+
+from welch:
+http://www.ivo-welch.info/research/journalcopy/2003-ms.pdf
